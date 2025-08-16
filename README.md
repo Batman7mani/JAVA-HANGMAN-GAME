@@ -29,10 +29,15 @@ A lightweight, terminal-based Hangman game written in **pure Java**. It picks a 
 
 ```
 pokemon
-java
-hangman
-developer
-cybersecurity
+charizard
+pikachu
+blastoise
+venusaur
+moltress
+hooh
+lugia
+mew
+mewtwo
 ```
 
 Blank lines are ignored. Words can be uppercase or mixed case; the game normalizes internally.
