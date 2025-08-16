@@ -1,0 +1,10 @@
+pokemon
+charizard
+pikachu
+blastoise
+venusaur
+moltress
+hooh
+lugia
+mew
+mewtwo
